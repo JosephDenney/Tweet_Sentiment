@@ -2,7 +2,7 @@
 
 <img src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/46/1479206864-donald-trump-wrong.gif?fill=480:287&resize=768:*" width="800"/>
 
-##### [Slideshow PDF](pdfs/TrafficCollisionsChicago.pdf)
+##### [Slideshow PDF](pdf/Tweet_Sentiment_Analysis.pdf)
 ##### [Video Walkthrough]
 
 ### Outline
