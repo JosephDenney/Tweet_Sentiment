@@ -1,7 +1,8 @@
 # Chicago Crash Analysis
 
 <img src="https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg" width="800"/>
-<gif src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/46/1479206864-donald-trump-wrong.gif?fill=480:287&resize=768:*" width="800"/>
+
+<img src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/46/1479206864-donald-trump-wrong.gif?fill=480:287&resize=768:*" width="800"/>
 
 ##### [Slideshow PDF](pdfs/TrafficCollisionsChicago.pdf)
 ##### [Video Walkthrough]
