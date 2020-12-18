@@ -22,7 +22,7 @@ The tweets in the data are mainly focused on Apple and Google products.
 
 ## Description of Data
 
-* The data consists of 3 original columns - Tweets, Subject of the Tweet, and the primary Emotion of the Tweet
+The data consists of 3 original columns - Tweets, Subject of the Tweet, and the primary Emotion of the Tweet
 
 ## Main Questions
 * Question 1: 
