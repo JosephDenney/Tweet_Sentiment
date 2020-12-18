@@ -25,36 +25,30 @@ The tweets in the data are mainly focused on Apple and Google products.
 The data consists of 3 original columns - Tweets, Subject of the Tweet, and the primary Emotion of the Tweet
 
 ## Main Questions
-* Question 1: 
-* Question 2: 
-* Question 3: 
+* Question 1: What are the most common word pairs?
+* Question 2: What words are most similar to Apple?
+* Question 3: What words are most similar to Google?
 
 ## Summary Conclusions and Insights
 * Question 1 Answer: 
-*
 
-
-
-* 
-
-![svg](img/Question1_8_0.png)
+![svg](img/Tweet_Analysis_44_0.png)
 
 * Question 2 Answer: 
 
-![svg](img/Question2_4_0.png)
-
-![svg](img/Question2_5_0.png)
-
-*  
-
-![svg](img/Question2_7_0.png)
+![svg](img/Tweet_Analysis_139_0.png)
 
 * Question 3 Answer: 
 
-![svg](img/Question3_5_0.png) 
+![svg](img/Tweet_Analysis_137_0.png)
 
+## Supervised and Unsupervised Learning Models
 
+*Supervised, Binary
+![svg](img/Tweet_Analysis_73_1.png)
 
+*Unsupervised, Multi-Class
+![svg](img/createNN_39_0.png)
 
 ## Future Work
 * Separate iPhone OS and Android OS tweets to look at different behaviors and word usage of those two groups
