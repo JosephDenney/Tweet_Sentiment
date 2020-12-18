@@ -44,10 +44,12 @@ The data consists of 3 original columns - Tweets, Subject of the Tweet, and the 
 
 ## Supervised and Unsupervised Learning Models
 
-*Supervised, Binary
+### Supervised, Binary
+
 ![svg](img/Tweet_Analysis_73_1.png)
 
-*Unsupervised, Multi-Class
+### Unsupervised, Multi-Class
+
 ![svg](img/createNN_39_0.png)
 
 ## Future Work
